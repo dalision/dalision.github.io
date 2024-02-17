@@ -8,8 +8,5 @@ I am Yusheng Dai, a second-year M.S. student at [NERC-SLIP](http://nelslip.ustc.
 
 My research interests now are Audio-Visual Processing, Video-Promp Audio Generation, Multimodal, Time series.
 
-<!-- {% include_relative _includes/news.md %} -->
 
 {% include_relative _includes/publications.md %}
-
-<!-- {% include_relative _includes/services.md %} -->
