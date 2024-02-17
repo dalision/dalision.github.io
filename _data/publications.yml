@@ -18,7 +18,7 @@ main:
     authors: Donglin Zhan*, <strong>Yusheng Dai*<strong>, Yiwei Dong*, Jinghai He, Zhenyi Wang, James Anderson (* means equal contribution)
     conference_short: CIKM
     conference: ACM International Conference on Information and Knowledge Management <strong>(CIKM)<strong>, 2023.
-    image: ./assets/teaser/nips.png
+    image: ./assets/teaser/cikm.jpg
     
   - title: "Blind source separation-based IVA-Xception model for bird sound recognition in complex acoustic environments"
     authors: <strong>Yusheng Dai<strong>, Yang Jin, Yiwei Dong, et.al.

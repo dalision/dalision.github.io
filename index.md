@@ -4,13 +4,12 @@ layout: homepage
 
 ## Hello 👋!
 
-I am Junhao Zhang, a third year Ph.D. student at [Show Lab](https://sites.google.com/view/showlab/home?authuser=0), [National University of Singapore](https://www.nus.edu.sg/), working with [Prof. Mike Zheng Shou](https://sites.google.com/view/showlab). I spent wonderful time at Meitu MT Lab and Bytedance AI Lab as a research intern. I obtained my Bachelor’s Degree of Engineering from Shandong University in June 2020.
+I am Yusheng Dai, a second-year M.S. student at [NERC-SLIP](http://nelslip.ustc.edu.cn/main.htm), [https://en.ustc.edu.cn](https://en.ustc.edu.cn), working with [Prof. JunDu](https://scholar.google.com/citations?user=iHb6ScQAAAAJ&hl=zh-CN). I obtained my Bachelor’s Degree of Engineering from Sichuan University in June 2022.
 
-
-My research interests now are video diffusion model and personalized video generation, past synthetic data pretraining, network architecture and 3D point cloud processing.
+My research interests now are Audio-Visual Processing, Video-Promp Audio Generation, Multimodal, Time series.
 
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->

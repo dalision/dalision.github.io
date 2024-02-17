@@ -1,24 +1,24 @@
 # Basic Information 
 title: Yusheng Dai
-position: Ph.D. Student
+position: M.S. Candidate
 affiliation: Master's Second Year
-affiliation_link: https://en.ustc.edu.cn/
+affiliation_link: https://en.ustc.edu.cn
 affiliation_logo: ./assets/img/NUS_coat_of_arms.svg
 email: dalison (at) mail.ustc.edu.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: david junhao zhang, junhao zhang, zhang junhao 
-description: Junhao Zhang is a Ph.D. student at Show Lab, National University of Singapore.
-canonical: https://junhaozhang98.github.io/
+keywords: Yusheng Dai
+description: Yusheng Dai is a second-year M.S. student at NERCSLIP Lab, University of Science and Technology of China.
+canonical: https://dalision.github.io/dalision/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=tvjQ7GUAAAAJ&hl=en
 cv_link: ./assets/file/cv.pdf
 github_link: https://github.com/dalision
-# linkedin: https://www.linkedin.com/in/junhao-zhang-70a600155/
-# twitter: https://twitter.com/JunhaoZHANG19
+# linkedin: 
+# twitter: 
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
