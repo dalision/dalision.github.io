@@ -1,0 +1,51 @@
+# Basic Information 
+title: Yusheng Dai
+position: Ph.D. Student
+affiliation: Master's Second Year
+affiliation_link: https://en.ustc.edu.cn/
+affiliation_logo: ./assets/img/NUS_coat_of_arms.svg
+email: dalison (at) mail.ustc.edu.com
+
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: david junhao zhang, junhao zhang, zhang junhao 
+description: Junhao Zhang is a Ph.D. student at Show Lab, National University of Singapore.
+canonical: https://junhaozhang98.github.io/
+
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/citations?user=tvjQ7GUAAAAJ&hl=en
+cv_link: ./assets/file/cv.pdf
+github_link: https://github.com/dalision
+# linkedin: https://www.linkedin.com/in/junhao-zhang-70a600155/
+# twitter: https://twitter.com/JunhaoZHANG19
+
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/img/dalison.png
+favicon: ./assets/img/ustc.png
+favicon_dark: ./assets/img/ustc.png
+
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: true
+
+# Auto Dark Mode
+# You may use the option to disable the automatic dark theme
+auto_dark_mode: true
+
+# Font
+# You can use this option to choose between Serif or Sans Serif fonts.
+font: "Serif" # or "Sans Serif"
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
+  - html_source_file/
