@@ -1,6 +1,6 @@
 main:
   - title: "Improving Audio-Visual Speech Recognition by Lip-Subword Correlation Based Visual Pre-training and Cross-Modal Fusion Encoder"
-    authors: <strong>Yusheng Dai<strong>, Hang Chen, Jun Du, Chin-hui Lee, et.al.
+    authors: <strong>Yusheng Dai</strong>, Hang Chen, Jun Du, Chin-hui Lee, et.al.
     conference_short: ICME
     conference: IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2023.
     arxiv: https://ieeexplore.ieee.org/abstract/document/10219701
@@ -8,20 +8,20 @@ main:
     image: ./assets/teaser/icme.png
 
   - title: "Meta-Adaptive Stock Movement Prediction with Two-Stage Representation Learning"
-    authors: Donglin Zhan*, <strong>Yusheng Dai*<strong>, Yiwei Dong*, Jinghai He, Zhenyi Wang, James Anderson (* means equal contribution)
+    authors: Donglin Zhan*, <strong>Yusheng Dai*</strong>, Yiwei Dong*, Jinghai He, Zhenyi Wang, James Anderson (* means equal contribution)
     conference_short: NeurIPS DistShift
-    conference: Conference on Neural Information Processing Systems Workshop on Distribution Shifts <strong>(NeurIPS DistShift)<strong>, 2022.
+    conference: Conference on Neural Information Processing Systems Workshop on Distribution Shifts <strong>(NeurIPS DistShift)</strong>, 2022.
     arxiv: https://openreview.net/pdf?id=uf44d5H1vx
     image: ./assets/teaser/nips.png
 
   - title: "Meta-Adaptive Stock Movement Prediction with Two-Stage Representation Learning"
-    authors: Donglin Zhan*, <strong>Yusheng Dai*<strong>, Yiwei Dong*, Jinghai He, Zhenyi Wang, James Anderson (* means equal contribution)
+    authors: Donglin Zhan*, <strong>Yusheng Dai*</strong>, Yiwei Dong*, Jinghai He, Zhenyi Wang, James Anderson (* means equal contribution)
     conference_short: CIKM
-    conference: ACM International Conference on Information and Knowledge Management <strong>(CIKM)<strong>, 2023.
+    conference: ACM International Conference on Information and Knowledge Management <strong>(CIKM)</strong>, 2023.
     image: ./assets/teaser/cikm.jpg
     
   - title: "Blind source separation-based IVA-Xception model for bird sound recognition in complex acoustic environments"
-    authors: <strong>Yusheng Dai<strong>, Yang Jin, Yiwei Dong, et.al.
+    authors: <strong>Yusheng Dai</strong>, Yang Jin, Yiwei Dong, et.al.
     conference_short: Electronics Letters
     conference: Electronics Letters
     page: https://github.com/dalision/IVA-Xception
@@ -30,7 +30,7 @@ main:
     image: ./assets/teaser/IVA.png
 
   - title: "Audio-Visual Speech Recognition in MISP2021 Challenge: Dataset Release and Deep Analysis"
-    authors: <strong>Chen Hang<strong>, Du Jun, Dai Yusheng, Lee Chin Hui, Siniscalchi, Sabato Marco, Watanabe Shinji, Scharenborg, Odette, Chen Jingdong, et.al.
+    authors: Chen Hang, Du Jun, <strong>Dai Yusheng</strong>, Lee Chin Hui, Siniscalchi, Sabato Marco, Watanabe Shinji, Scharenborg, Odette, Chen Jingdong, et.al.
     conference_short: Interspeech
     conference: In Proceedings of the Annual Conference of the International Speech Communication Association <strong>(Interspeech)</strong>, 2022.
     arxiv: https://www.isca-speech.org/archive/pdfs/interspeech_2022/chen22o_interspeech.pdf
