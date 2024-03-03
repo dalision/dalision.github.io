@@ -24,7 +24,7 @@ main:
 
   - title: "Meta-Adaptive Stock Movement Prediction with Two-Stage Representation Learning"
     authors: Donglin Zhan*, <strong>Yusheng Dai*</strong>, Yiwei Dong*, Jinghai He, Zhenyi Wang, James Anderson (* means equal contribution)
-    conference_short: CIKM
+    conference_short: SDM
     conference: ACM International Conference on Information and Knowledge Management <strong>(CIKM)</strong>, 2023.
     image: ./assets/teaser/cikm.jpg
     

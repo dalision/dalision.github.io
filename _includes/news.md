@@ -1,67 +1,9 @@
-<h1 id="publications"></h1>
+## News
 
-<h2 style="margin: 60px 0px -15px;">Selected Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=tvjQ7GUAAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
-
-<div class="publications">
-<ol class="bibliography">
-
-{% for link in site.data.publications.main %}
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% endif %}
-    {% if link.conference_short %} 
-    <abbr class="badge">{{ link.conference_short }}</abbr>
-    {% endif %}
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.arxiv }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
-      </div>
-    <div class="links">
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      {% endif %}
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
-      {% if link.arxiv %} 
-      <a href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.demo %} 
-      <a href="{{ link.demo }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
-      {% if link.github_folks %} 
-      <a target="_blank" href ="https://github.com/{{ link.github_stars }}"><img alt="GitHub forks" align="right" src="https://img.shields.io/github/forks/{{ link.github_folks }}?style=social"></a>
-      {% endif %}
-      {% if link.github_stars %} 
-      <a target="_blank" href ="https://github.com/{{ link.github_stars }}"><img alt="GitHub stars" align="right" src="https://img.shields.io/github/stars/{{ link.github_stars }}?style=social"></a>
-      {% endif %}
-    </div>
-  </div>
-</div>
-</li>
-
-<br>
-
-{% endfor %}
-
-</ol>
-</div>
-
+- **[Feb. 2024]**: One paper on the robustness of audio-visual speech recognition (AVSR) has been accepted as the first CVPR paper in the history of the speech group! We unexpectedly discovered this interesting multimodal bias phenomenon and successfully solve the problem of modality dropout, achieving a unification of AVSR and ASR. The paper and code will be coming soon!
+- **[Jan. 2024]**: The extended paper of our self-driven work on financial time series prediction has been accepted by SDM 2024. Thanks again to my co-authors for this unforgettable cooperation! Hopefully, this algorithm can help us make enough money for the future Mars trip :).
+**[Dec. 2022]** Welcome to join our [MISP2023 competition](https://mispchallenge.github.io/mispchallenge2023/) on speech enhancement task! Here is the [baseline system](https://github.com/mispchallenge/mispchallenge2023).
+- **[Mar. 2023]**: [One paper](https://ieeexplore.ieee.org/abstract/document/10219701) on low-level audio-visual signal processing has been accepted by ICME 2023, which is the first paper in my graduate career. I have the opportunity to go to Australia! For sure, here is the [code](https://github.com/mispchallenge/MISP-ICME-AVSR).
+- **[Dec. 2022]** Welcome to join our [MISP2022 competition](https://mispchallenge.github.io/mispchallenge2022/) on speaker diarization and long-time AVSR task! Here is the [baseline system](https://github.com/mispchallenge/misp2022_baseline).
+- **[Oct. 2022]** We have some ideas to firstly extend Mammal in financial data analysis and the [paper](https://openreview.net/pdf?id=uf44d5H1vx) is accepted by NeurIPS DistShift 2022 workshop.
+- **[Dec. 2021]**  We release the largest Mandarin audio-visual dataset called [MISP-AVSR](https://www.isca-speech.org/archive/pdfs/interspeech_2022/chen22o_interspeech.pdf).  The dataset is recorded in TV rooms of home environments with multiple  groups chatting simultaneously. Welcome to join our [MISP2021 competition](https://mispchallenge.github.io/) as the grand challenge of ICASSP! Here is the [baseline](https://github.com/mispchallenge/misp2021_baseline) system.
