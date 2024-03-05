@@ -15,18 +15,18 @@ main:
     code: https://github.com/mispchallenge/MISP-ICME-AVSR
     image: ./assets/teaser/icme.png
 
-  - title: "Meta-Adaptive Stock Movement Prediction with Two-Stage Representation Learning"
+  - title: "Meta-Adaptive Stock Movement Prediction with Two-Stage Representation Learning (short)"
     authors: Donglin Zhan*, <strong>Yusheng Dai*</strong>, Yiwei Dong*, Jinghai He, Zhenyi Wang, James Anderson (* means equal contribution)
     conference_short: NeurIPS DistShift
     conference: Conference on Neural Information Processing Systems Workshop on Distribution Shifts <strong>(NeurIPS DistShift)</strong>, 2022.
     arxiv: https://openreview.net/pdf?id=uf44d5H1vx
     image: ./assets/teaser/nips.png
 
-  - title: "Meta-Adaptive Stock Movement Prediction with Two-Stage Representation Learning"
+  - title: "Meta-Adaptive Stock Movement Prediction with Two-Stage Representation Learning (long)"
     authors: Donglin Zhan*, <strong>Yusheng Dai*</strong>, Yiwei Dong*, Jinghai He, Zhenyi Wang, James Anderson (* means equal contribution)
     conference_short: SDM
-    conference: ACM International Conference on Information and Knowledge Management <strong>(CIKM)</strong>, 2023.
-    image: ./assets/teaser/cikm.jpg
+    conference: SIAM International Conference on Data Mining <strong>(SDM)</strong>, 2024.
+    image: ./assets/teaser/sdm.png
     
   - title: "Blind source separation-based IVA-Xception model for bird sound recognition in complex acoustic environments"
     authors: <strong>Yusheng Dai</strong>, Yang Jin, Yiwei Dong, et.al.
