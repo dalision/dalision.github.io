@@ -41,5 +41,16 @@ main:
     authors: Chen Hang, Du Jun, <strong>Dai Yusheng</strong>, Lee Chin Hui, Siniscalchi, Sabato Marco, Watanabe Shinji, Scharenborg, Odette, Chen Jingdong, et.al.
     conference_short: Interspeech
     conference: In Proceedings of the Annual Conference of the International Speech Communication Association <strong>(Interspeech)</strong>, 2022.
+    page: https://mispchallenge.github.io/
     arxiv: https://www.isca-speech.org/archive/pdfs/interspeech_2022/chen22o_interspeech.pdf
+    code: https://github.com/mispchallenge/misp2021_baseline
     image: ./assets/teaser/interspeech.png
+  
+  - title: "Audio-Visual Speech Recognition in MISP2021 Challenge: Dataset Release and Deep Analysis"
+    authors: Shilong Wu, Chenxi Wang, Hang Chen, <strong>Yusheng Dai</strong>, et.al.
+    conference_short: ICASSP
+    conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2024.
+    page: https://mispchallenge.github.io/mispchallenge2023/
+    arxiv: https://arxiv.org/pdf/2309.08348
+    code: https://github.com/mispchallenge/MISP-2023-Challenge-Baseline
+    image: ./assets/teaser/misp2023.png
