@@ -3,8 +3,8 @@ main:
     authors: <strong>Yusheng Dai</strong>, Hang Chen, Jun Du, Chin-hui Lee, et.al.
     conference_short: CVPR
     conference: IEEE / CVF Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2024.
-    arxiv: https://github.com/dalision
-    code: https://github.com/dalision
+    arxiv: https://arxiv.org/abs/2403.04245
+    code: https://github.com/dalision/ModalBiasAVSR
     image: ./assets/teaser/CVPR2024.png
 
   - title: "Improving Audio-Visual Speech Recognition by Lip-Subword Correlation Based Visual Pre-training and Cross-Modal Fusion Encoder"
