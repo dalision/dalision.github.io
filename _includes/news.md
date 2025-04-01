@@ -1,4 +1,5 @@
 ## News
+- **[March. 2025]**: We release our new work in 2D long latent generation with Joint Diffusion.
 - **[Nov. 2024]**: Obtaining National Scholarship in Univerisity of Science and Technology in China.
 - **[Oct. 2024]**: Obtaining Monash International Tuition Scholarship (MITS) and Monash Graduate Scholarship (MGS).
 - **[Feb. 2024]**: One paper on the robustness of audio-visual speech recognition (AVSR) has been accepted as the first CVPR paper in history of our speech group! We unexpectedly discovered this interesting multimodal bias phenomenon and successfully solve the problem of modality dropout, achieving a unification of AVSR and ASR. The [paper](https://arxiv.org/abs/2403.04245) has been upload on the arxiv and [code](https://github.com/dalision/ModalBiasAVSR) will be coming soon!
