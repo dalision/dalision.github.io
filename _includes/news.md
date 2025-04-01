@@ -1,5 +1,6 @@
 ## News
-
+- **[Nov. 2024]**: Obtaining National Scholarship in Univerisity of Science and Technology in China.
+- **[Oct. 2024]**: Obtaining Monash International Tuition Scholarship (MITS) and Monash Graduate Scholarship (MGS).
 - **[Feb. 2024]**: One paper on the robustness of audio-visual speech recognition (AVSR) has been accepted as the first CVPR paper in history of our speech group! We unexpectedly discovered this interesting multimodal bias phenomenon and successfully solve the problem of modality dropout, achieving a unification of AVSR and ASR. The [paper](https://arxiv.org/abs/2403.04245) has been upload on the arxiv and [code](https://github.com/dalision/ModalBiasAVSR) will be coming soon!
 - **[Jan. 2024]**: The extended paper of our self-driven work on financial time series prediction has been accepted by SDM 2024. Thanks to my co-authors for this unforgettable cooperation! Hopefully, this algorithm can help us make enough money for the future Mars trip :).
 - **[Dec. 2022]** Welcome to join our [MISP2023 competition](https://mispchallenge.github.io/mispchallenge2023/) on speech enhancement task! Here is the [baseline system](https://github.com/mispchallenge/mispchallenge2023).

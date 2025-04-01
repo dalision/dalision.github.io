@@ -1,4 +1,9 @@
 main:
+  - title: "Latent Swap Joint Diffusion for 2D Long-Form Latent Generation"
+    authors: <strong>Yusheng Dai</strong>, Chenxi Wang, Chang Li, Chen Wang, et.al.
+    arxiv: https://arxiv.org/abs/2403.04245
+    image: ./assets/teaser/Long.png
+
   - title: "A Study of Dropout-Induced Modality Bias on Robustness to Missing Video Frames for Audio-Visual Speech Recognition"
     authors: <strong>Yusheng Dai</strong>, Hang Chen, Jun Du, Chin-hui Lee, et.al.
     conference_short: CVPR

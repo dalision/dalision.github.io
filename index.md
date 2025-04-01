@@ -4,9 +4,9 @@ layout: homepage
 
 ## Hello 👋!
 
-I am Yusheng Dai, a second-year M.S. student at [NERC-SLIP](http://nelslip.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://en.ustc.edu.cn), working with [Prof. JunDu](https://scholar.google.com/citations?user=iHb6ScQAAAAJ&hl=zh-CN) and [Prof. Chin-hui Lee](https://scholar.google.com.hk/citations?hl=zh-CN&user=k4k05hcAAAAJ). I obtained my Bachelor’s Degree of Engineering from Sichuan University in June 2022.
+I am Yusheng Dai, a final-year M.S. student in [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn), under the guidance of [Prof. JunDu](http://staff.ustc.edu.cn/~jundu/) and [Prof. Chin-hui Lee]( https://users.ece.gatech.edu/~chl/). Starting June 2025, I will be pursuing my Ph.D. at Monash University in Australia under the supervision of [Prof. Jianfei Cai](https://jianfei-cai.github.io) and [Prof. Qiuhong Ke]( https://research.monash.edu/en/persons/qiuhong-ke). I obtained my Bachelor’s Degree of Cyber Engineering from Sichuan University in June 2022.
 
-My research interests now are controllable audio generation based on given video&text, audio-visual speech recognition and time series analysic on finacial scenario.
+My prior research primarily focuses on video, integrating both visual and audio streams while emphasizing their complementarity, alignment, and transitions across semantic and temporal dimensions. These work can be simply divided into two main categories. The early work, beginning in 2022, focus on audio-visual discriminative models related to talking-face videos in noisy, multi-speaker scenarios, such as Audio-Visual Speech Recognition (AVSR). More recently, since 2023, my research has shifted toward more flexible and high-quality audio and music generation, emphasizing atomic controllability and consistency in combination, guided by text or silent video.
 
 {% include_relative _includes/news.md %}
 {% include_relative _includes/publications.md %}
