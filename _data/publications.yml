@@ -1,8 +1,10 @@
 main:
   - title: "Latent Swap Joint Diffusion for 2D Long-Form Latent Generation"
-    authors: <strong>Yusheng Dai</strong>, Chenxi Wang, Chang Li, Chen Wang, et.al.
-    conference: ArXiv Preprint.
+    authors: <strong>Yusheng Dai*</strong>, Chenxi Wang*, Chang Li, Chen Wang, et.al.
+    conference_short: ICCV
+    conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
     arxiv: https://arxiv.org/abs/2502.05130
+    project page: https://swapforward.github.io
     image: ./assets/teaser/Long.png
 
   - title: "A Study of Dropout-Induced Modality Bias on Robustness to Missing Video Frames for Audio-Visual Speech Recognition"
@@ -10,8 +12,16 @@ main:
     conference_short: CVPR
     conference: IEEE / CVF Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2024.
     arxiv: https://arxiv.org/abs/2403.04245
-    code: https://github.com/dalision/ModalBiasAVSR
+    project page: https://github.com/dalision/ModalBiasAVSR
     image: ./assets/teaser/CVPR2024.png
+
+  - title: "AudioAtlas: A Comprehensive and Balanced Benchmark Towards Movie-Oriented Text-to-Audio Generation"
+    authors: Chenxi Wang*, <strong>Yusheng Dai*</strong>, Lei Sun, et.al.
+    conference_short: ACM MM
+    conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2025.
+    project page: https://audioatlas.github.io/AudioAtlas
+    arxiv: https://arxiv.org/abs/2502.05130
+    image: ./assets/teaser/Long.png
 
   - title: "Improving Audio-Visual Speech Recognition by Lip-Subword Correlation Based Visual Pre-training and Cross-Modal Fusion Encoder"
     authors: <strong>Yusheng Dai</strong>, Hang Chen, Jun Du, Chin-hui Lee, et.al.
@@ -28,11 +38,11 @@ main:
     arxiv: https://openreview.net/pdf?id=uf44d5H1vx
     image: ./assets/teaser/nips.png
 
-  - title: "Meta-Adaptive Stock Movement Prediction with Two-Stage Representation Learning (long)"
-    authors: Donglin Zhan*, <strong>Yusheng Dai*</strong>, Yiwei Dong*, Jinghai He, Zhenyi Wang, James Anderson (* means equal contribution)
-    conference_short: SDM
-    conference: SIAM International Conference on Data Mining <strong>(SDM)</strong>, 2024.
-    image: ./assets/teaser/sdm.png
+  # - title: "Meta-Adaptive Stock Movement Prediction with Two-Stage Representation Learning (long)"
+  #   authors: Donglin Zhan*, <strong>Yusheng Dai*</strong>, Yiwei Dong*, Jinghai He, Zhenyi Wang, James Anderson (* means equal contribution)
+  #   conference_short: SDM
+  #   conference: SIAM International Conference on Data Mining <strong>(SDM)</strong>, 2024.
+  #   image: ./assets/teaser/sdm.png
     
   - title: "Blind source separation-based IVA-Xception model for bird sound recognition in complex acoustic environments"
     authors: <strong>Yusheng Dai</strong>, Yang Jin, Yiwei Dong, et.al.
@@ -40,7 +50,7 @@ main:
     conference: Electronics Letters
     page: https://github.com/dalision/IVA-Xception
     arxiv: https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.12160
-    code: https://github.com/dalision/IVA-Xception
+    project page: https://github.com/dalision/IVA-Xception
     image: ./assets/teaser/IVA.png
 
   - title: "Audio-Visual Speech Recognition in MISP2021 Challenge: Dataset Release and Deep Analysis"

@@ -1,21 +1,21 @@
 # Basic Information 
 title: Yusheng Dai
-position: M.S. Candidate
-affiliation: Master's Second Year
-affiliation_link: https://en.ustc.edu.cn
-affiliation_logo: ./assets/img/NUS_coat_of_arms.svg
-email: dalison (at) mail.ustc.edu.com
-
+position: PhD Candidate
+# affiliation: Master's First Year
+affiliation_link: https://www.monash.edu
+affiliation_logo: ./assets/img/monash_coat_of_arms.svg
+email: Yusheng.Dai (at) monash.edu
+  
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Yusheng Dai
-description: Yusheng Dai is a second-year M.S. student at NERCSLIP Lab, University of Science and Technology of China.
+description: Yusheng Dai is a first year student in Monash University.
 canonical: https://dalision.github.io/dalision/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=tvjQ7GUAAAAJ&hl=en
-cv_link: ./assets/file/cv.pdf
+# cv_link: ./assets/file/cv.pdf
 github_link: https://github.com/dalision
 # linkedin: 
 # twitter: 
@@ -23,8 +23,8 @@ github_link: https://github.com/dalision
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/dalison.png
-favicon: ./assets/img/ustc.png
-favicon_dark: ./assets/img/ustc.png
+favicon: ./assets/img/monash.png
+favicon_dark: ./assets/img/monash.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
