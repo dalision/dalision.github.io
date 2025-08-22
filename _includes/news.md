@@ -1,9 +1,9 @@
 ## News
-- **[July 2025]**: Our work on timing audio generation benchmark "AudioAtlas" has been accepted by ACM MM 2025.
-- **[June 2025]**: Our work on long audio and panorama with swap latent joint diffusion has been accepted by ICCV 2025.
-- **[Nov. 2024]**: Obtained National Scholarship at University of Science and Technology of China.
-- **[Oct. 2024]**: Obtained Monash International Tuition Scholarship (MITS) and Monash Graduate Scholarship (MGS).
-- **[Feb. 2024]**: One paper on the robustness of audio-visual speech recognition (AVSR) has been accepted to CVPR 2024.
+- **[July 2025]**: Our work on **Timing Audio Generation benchmark —— [AudioAtlas](https://audioatlas.github.io/AudioAtlas/)** has been accepted by **ACM MM 2025**.
+- **[June 2025]**: Our work on **[Long Audio and Panorama with Swap Latent Joint Diffusion](https://swapforward.github.io/)** has been accepted by **ICCV 2025**.
+- **[Nov. 2024]**: Obtained **National Scholarship** at University of Science and Technology of China.
+- **[Oct. 2024]**: Obtained Monash International Tuition Scholarship **(MITS)** and Monash Graduate Scholarship **(MGS)**.
+- **[Feb. 2024]**: One paper on the [**robustness of audio-visual speech recognition**](https://github.com/dalision/ModalBiasAVSR) has been accepted to CVPR 2024.
 - **[Jan. 2024]**: The extended paper of our self-driven work on financial time series prediction has been accepted by SDM 2024. Thanks to my co-authors for this unforgettable cooperation! Hopefully, this algorithm can help us make enough money for the future Mars trip :).
 - **[Dec. 2022]**: Welcome to join our [MISP2023 competition](https://mispchallenge.github.io/mispchallenge2023/) on speech enhancement task! Here is the [baseline system](https://github.com/mispchallenge/mispchallenge2023).
 - **[Mar. 2023]**: [One paper](https://ieeexplore.ieee.org/abstract/document/10219701) on low-level audio-visual signal processing has been accepted by ICME 2023, which is the first paper in my graduate career. I have the opportunity to go to Australia! For sure, here is the [code](https://github.com/mispchallenge/MISP-ICME-AVSR).
