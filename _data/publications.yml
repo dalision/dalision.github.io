@@ -21,22 +21,24 @@ main:
     conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2025.
     project page: https://audioatlas.github.io/AudioAtlas
     arxiv: https://arxiv.org/abs/2502.05130
-    image: ./assets/teaser/Long.png
+    image: ./assets/teaser/ACM.png
 
-  - title: "Improving Audio-Visual Speech Recognition by Lip-Subword Correlation Based Visual Pre-training and Cross-Modal Fusion Encoder"
-    authors: <strong>Yusheng Dai</strong>, Hang Chen, Jun Du, Chin-hui Lee, et.al.
-    conference_short: ICME
-    conference: IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2023.
-    arxiv: https://ieeexplore.ieee.org/abstract/document/10219701
-    code: https://github.com/mispchallenge/MISP-ICME-AVSR
-    image: ./assets/teaser/icme.png
+  
 
   - title: "Meta-Adaptive Stock Movement Prediction with Two-Stage Representation Learning (short)"
     authors: Donglin Zhan*, <strong>Yusheng Dai*</strong>, Yiwei Dong*, Jinghai He, Zhenyi Wang, James Anderson (* means equal contribution)
     conference_short: NeurIPS DistShift
     conference: Conference on Neural Information Processing Systems Workshop on Distribution Shifts <strong>(NeurIPS DistShift)</strong>, 2022.
     arxiv: https://openreview.net/pdf?id=uf44d5H1vx
-    image: ./assets/teaser/nips.png
+    image: ./assets/teaser/sdm.png
+
+  # - title: "Improving Audio-Visual Speech Recognition by Lip-Subword Correlation Based Visual Pre-training and Cross-Modal Fusion Encoder"
+  #   authors: <strong>Yusheng Dai</strong>, Hang Chen, Jun Du, Chin-hui Lee, et.al.
+  #   conference_short: ICME
+  #   conference: IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2023.
+  #   arxiv: https://ieeexplore.ieee.org/abstract/document/10219701
+  #   code: https://github.com/mispchallenge/MISP-ICME-AVSR
+  #   image: ./assets/teaser/icme.png
 
   # - title: "Meta-Adaptive Stock Movement Prediction with Two-Stage Representation Learning (long)"
   #   authors: Donglin Zhan*, <strong>Yusheng Dai*</strong>, Yiwei Dong*, Jinghai He, Zhenyi Wang, James Anderson (* means equal contribution)
@@ -54,7 +56,7 @@ main:
     image: ./assets/teaser/IVA.png
 
   - title: "Audio-Visual Speech Recognition in MISP2021 Challenge: Dataset Release and Deep Analysis"
-    authors: Chen Hang, Du Jun, <strong>Dai Yusheng</strong>, Lee Chin Hui, Siniscalchi, Sabato Marco, Watanabe Shinji, Scharenborg, Odette, Chen Jingdong, et.al.
+    authors: Chen Hang, Du Jun, <strong>Yusheng Dai</strong>, Lee Chin Hui, Siniscalchi, Sabato Marco, Watanabe Shinji, Scharenborg, Odette, Chen Jingdong, et.al.
     conference_short: Interspeech
     conference: In Proceedings of the Annual Conference of the International Speech Communication Association <strong>(Interspeech)</strong>, 2022.
     page: https://mispchallenge.github.io/
@@ -62,11 +64,11 @@ main:
     code: https://github.com/mispchallenge/misp2021_baseline
     image: ./assets/teaser/interspeech.png
   
-  - title: "Audio-Visual Speech Recognition in MISP2021 Challenge: Dataset Release and Deep Analysis"
-    authors: Shilong Wu, Chenxi Wang, Hang Chen, <strong>Yusheng Dai</strong>, et.al.
-    conference_short: ICASSP
-    conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2024.
-    page: https://mispchallenge.github.io/mispchallenge2023/
-    arxiv: https://arxiv.org/pdf/2309.08348
-    code: https://github.com/mispchallenge/MISP-2023-Challenge-Baseline
-    image: ./assets/teaser/misp2023.png
+  # - title: "Audio-Visual Speech Recognition in MISP2021 Challenge: Dataset Release and Deep Analysis"
+  #   authors: Shilong Wu, Chenxi Wang, Hang Chen, <strong>Yusheng Dai</strong>, et.al.
+  #   conference_short: ICASSP
+  #   conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2024.
+  #   page: https://mispchallenge.github.io/mispchallenge2023/
+  #   arxiv: https://arxiv.org/pdf/2309.08348
+  #   code: https://github.com/mispchallenge/MISP-2023-Challenge-Baseline
+  #   image: ./assets/teaser/misp2023.png
