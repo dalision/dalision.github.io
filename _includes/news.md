@@ -1,12 +1,7 @@
 ## News
+- **[Apr. 2026]**: Our work on unified video-text-to-audio generation **[Omni2Sound](https://swapforward.github.io/Omni2Sound/)** has been accepted by **CVPR 2026** as a **Highlight** (top 15%).
+- **[Apr. 2026]**: Our work on controllable audio generation **[ControlAudio](https://control-audio.github.io/Control-Audio/)** has been accepted by **ACL 2026** as an **Oral** presentation (top 15%).
 - **[July 2025]**: Our work on **Timing Audio Generation benchmark —— [AudioAtlas](https://audioatlas.github.io/AudioAtlas/)** has been accepted by **ACM MM 2025**.
-- **[June 2025]**: Our work on **[Long Audio and Panorama with Swap Latent Joint Diffusion](https://swapforward.github.io/)** has been accepted by **ICCV 2025**.
+- **[June 2025]**: Our work on Seamless long-form audio and panorama generation [SaFa](https://swapforward.github.io/)** has been accepted by **ICCV 2025**.
 - **[Nov. 2024]**: Obtained **National Scholarship** at University of Science and Technology of China.
 - **[Oct. 2024]**: Obtained Monash International Tuition Scholarship **(MITS)** and Monash Graduate Scholarship **(MGS)**.
-- **[Feb. 2024]**: One paper on the [**robustness of audio-visual speech recognition**](https://github.com/dalision/ModalBiasAVSR) has been accepted to CVPR 2024.
-- **[Jan. 2024]**: The extended paper of our self-driven work on financial time series prediction has been accepted by SDM 2024. Thanks to my co-authors for this unforgettable cooperation! Hopefully, this algorithm can help us make enough money for the future Mars trip :).
-- **[Dec. 2022]**: Welcome to join our [MISP2023 competition](https://mispchallenge.github.io/mispchallenge2023/) on speech enhancement task! Here is the [baseline system](https://github.com/mispchallenge/mispchallenge2023).
-- **[Mar. 2023]**: [One paper](https://ieeexplore.ieee.org/abstract/document/10219701) on low-level audio-visual signal processing has been accepted by ICME 2023, which is the first paper in my graduate career. I have the opportunity to go to Australia! For sure, here is the [code](https://github.com/mispchallenge/MISP-ICME-AVSR).
-- **[Dec. 2022]**: Welcome to join our [MISP2022 competition](https://mispchallenge.github.io/mispchallenge2022/) on speaker diarization and long-time AVSR task! Here is the [baseline system](https://github.com/mispchallenge/misp2022_baseline).
-- **[Oct. 2022]**: We have some ideas to firstly extend MAMMAL in financial data analysis and the [paper](https://openreview.net/pdf?id=uf44d5H1vx) is accepted by NeurIPS DistShift 2022 workshop.
-- **[Dec. 2021]**: We release the largest Mandarin audio-visual dataset called [MISP-AVSR](https://www.isca-speech.org/archive/pdfs/interspeech_2022/chen22o_interspeech.pdf). The dataset is recorded in TV rooms of home environments with multiple groups chatting simultaneously. Welcome to join our [MISP2021 competition](https://mispchallenge.github.io/) as the grand challenge of ICASSP! Here is the [baseline](https://github.com/mispchallenge/misp2021_baseline) system.

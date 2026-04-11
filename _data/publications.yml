@@ -1,11 +1,38 @@
 main:
+  - title: "Omni2Sound: Towards Unified Video-Text-to-Audio Generation"
+    authors: <strong>Yusheng Dai</strong>, Zehua Chen, Yuxuan Jiang, Baolong Gao, Qiuhong Ke, Jianfei Cai, Jun Zhu
+    conference_short: CVPR
+    conference: IEEE / CVF Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2026.
+    arxiv: https://swapforward.github.io/Omni2Sound/
+    page: https://swapforward.github.io/Omni2Sound/
+    image: ./assets/teaser/omni2sound.png
+    notes: Highlight (top 15%)
+
+  - title: "HolisticAudio: Scaling End-to-End Video Dubbing to Multi-Speaker Dialogues with Coherent Sound Effects"
+    authors: <strong>Yusheng Dai</strong>, et.al.
+    conference_short: Under Review
+    conference: Under Review, 2026.
+    arxiv: https://cinedub2026.github.io/
+    page: https://cinedub2026.github.io/
+    image: ./assets/teaser/cinedub.png
+
+  - title: "ControlAudio: Tackling Text-Guided, Timing-Indicated and Intelligible Audio Generation via Progressive Diffusion Modeling"
+    authors: Yuxuan Jiang, Zehua Chen, Zeqian Ju, <strong>Yusheng Dai</strong>, Weibei Dou, Jun Zhu
+    conference_short: ACL
+    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
+    arxiv: https://arxiv.org/pdf/2510.08878v1
+    page: https://control-audio.github.io/Control-Audio/
+    image: ./assets/teaser/controlaudio.png
+    notes: Oral (top 15%)
+
   - title: "Latent Swap Joint Diffusion for 2D Long-Form Latent Generation"
-    authors: <strong>Yusheng Dai*</strong>, Chenxi Wang*, Chang Li, Chen Wang, et.al.
+    authors: <strong>Yusheng Dai</strong>, Chenxi Wang, Chang Li, Chen Wang, et.al.
     conference_short: ICCV
     conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
     arxiv: https://arxiv.org/abs/2502.05130
     project page: https://swapforward.github.io
     image: ./assets/teaser/Long.png
+    
 
   - title: "A Study of Dropout-Induced Modality Bias on Robustness to Missing Video Frames for Audio-Visual Speech Recognition"
     authors: <strong>Yusheng Dai</strong>, Hang Chen, Jun Du, Chin-hui Lee, et.al.
@@ -15,22 +42,21 @@ main:
     project page: https://github.com/dalision/ModalBiasAVSR
     image: ./assets/teaser/CVPR2024.png
 
-  - title: "AudioAtlas: A Comprehensive and Balanced Benchmark Towards Movie-Oriented Text-to-Audio Generation"
-    authors: Chenxi Wang*, <strong>Yusheng Dai*</strong>, Lei Sun, et.al.
-    conference_short: ACM MM
-    conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2025.
-    project page: https://audioatlas.github.io/AudioAtlas
-    arxiv: https://arxiv.org/abs/2502.05130
-    image: ./assets/teaser/ACM.png
+  # - title: "AudioAtlas: A Comprehensive and Balanced Benchmark Towards Movie-Oriented Text-to-Audio Generation"
+  #   authors: Chenxi Wang*, <strong>Yusheng Dai*</strong>, Lei Sun, et.al.
+  #   conference_short: ACM MM
+  #   conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2025.
+  #   project page: https://audioatlas.github.io/AudioAtlas
+  #   arxiv: https://arxiv.org/abs/2502.05130
+  #   image: ./assets/teaser/ACM.png
 
   
-
-  - title: "Meta-Adaptive Stock Movement Prediction with Two-Stage Representation Learning (short)"
-    authors: Donglin Zhan*, <strong>Yusheng Dai*</strong>, Yiwei Dong*, Jinghai He, Zhenyi Wang, James Anderson (* means equal contribution)
-    conference_short: NeurIPS DistShift
-    conference: Conference on Neural Information Processing Systems Workshop on Distribution Shifts <strong>(NeurIPS DistShift)</strong>, 2022.
-    arxiv: https://openreview.net/pdf?id=uf44d5H1vx
-    image: ./assets/teaser/sdm.png
+  # - title: "Meta-Adaptive Stock Movement Prediction with Two-Stage Representation Learning (short)"
+  #   authors: Donglin Zhan*, <strong>Yusheng Dai*</strong>, Yiwei Dong*, Jinghai He, Zhenyi Wang, James Anderson (* means equal contribution)
+  #   conference_short: NeurIPS DistShift
+  #   conference: Conference on Neural Information Processing Systems Workshop on Distribution Shifts <strong>(NeurIPS DistShift)</strong>, 2022.
+  #   arxiv: https://openreview.net/pdf?id=uf44d5H1vx
+  #   image: ./assets/teaser/sdm.png
 
   # - title: "Improving Audio-Visual Speech Recognition by Lip-Subword Correlation Based Visual Pre-training and Cross-Modal Fusion Encoder"
   #   authors: <strong>Yusheng Dai</strong>, Hang Chen, Jun Du, Chin-hui Lee, et.al.
@@ -46,23 +72,23 @@ main:
   #   conference: SIAM International Conference on Data Mining <strong>(SDM)</strong>, 2024.
   #   image: ./assets/teaser/sdm.png
     
-  - title: "Blind source separation-based IVA-Xception model for bird sound recognition in complex acoustic environments"
-    authors: <strong>Yusheng Dai</strong>, Yang Jin, Yiwei Dong, et.al.
-    conference_short: Electronics Letters
-    conference: Electronics Letters
-    page: https://github.com/dalision/IVA-Xception
-    arxiv: https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.12160
-    project page: https://github.com/dalision/IVA-Xception
-    image: ./assets/teaser/IVA.png
+  # - title: "Blind source separation-based IVA-Xception model for bird sound recognition in complex acoustic environments"
+  #   authors: <strong>Yusheng Dai</strong>, Yang Jin, Yiwei Dong, et.al.
+  #   conference_short: Electronics Letters
+  #   conference: Electronics Letters
+  #   page: https://github.com/dalision/IVA-Xception
+  #   arxiv: https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.12160
+  #   project page: https://github.com/dalision/IVA-Xception
+  #   image: ./assets/teaser/IVA.png
 
-  - title: "Audio-Visual Speech Recognition in MISP2021 Challenge: Dataset Release and Deep Analysis"
-    authors: Chen Hang, Du Jun, <strong>Yusheng Dai</strong>, Lee Chin Hui, Siniscalchi, Sabato Marco, Watanabe Shinji, Scharenborg, Odette, Chen Jingdong, et.al.
-    conference_short: Interspeech
-    conference: In Proceedings of the Annual Conference of the International Speech Communication Association <strong>(Interspeech)</strong>, 2022.
-    page: https://mispchallenge.github.io/
-    arxiv: https://www.isca-speech.org/archive/pdfs/interspeech_2022/chen22o_interspeech.pdf
-    code: https://github.com/mispchallenge/misp2021_baseline
-    image: ./assets/teaser/interspeech.png
+  # - title: "Audio-Visual Speech Recognition in MISP2021 Challenge: Dataset Release and Deep Analysis"
+  #   authors: Chen Hang, Du Jun, <strong>Yusheng Dai</strong>, Lee Chin Hui, Siniscalchi, Sabato Marco, Watanabe Shinji, Scharenborg, Odette, Chen Jingdong, et.al.
+  #   conference_short: Interspeech
+  #   conference: In Proceedings of the Annual Conference of the International Speech Communication Association <strong>(Interspeech)</strong>, 2022.
+  #   page: https://mispchallenge.github.io/
+  #   arxiv: https://www.isca-speech.org/archive/pdfs/interspeech_2022/chen22o_interspeech.pdf
+  #   code: https://github.com/mispchallenge/misp2021_baseline
+  #   image: ./assets/teaser/interspeech.png
   
   # - title: "Audio-Visual Speech Recognition in MISP2021 Challenge: Dataset Release and Deep Analysis"
   #   authors: Shilong Wu, Chenxi Wang, Hang Chen, <strong>Yusheng Dai</strong>, et.al.
