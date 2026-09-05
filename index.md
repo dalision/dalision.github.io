@@ -10,7 +10,7 @@ I am **Yusheng Dai**, a PhD candidate at [Monash University](https://www.monash.
 My research focuses on **Audio-Visual Foundation World Models**, working toward an interactive metaverse driven by real-time video and sound generation. Representative works include:
 
 - [Omni2Sound](https://swapforward.github.io/Omni2Sound/) (CVPR 2026 Highlight): A unified video-text-to-audio foundation model that achieves state-of-the-art on V2A, T2A, and VT2A with a simple DiT architecture.
-- [εar-VAE2](https://eps-acoustic-revolution-lab.github.io/EAR_VAE2/): A frequency-aware complex-spectrogram VAE for high-fidelity music reconstruction that compresses 48 kHz stereo music into 25 Hz latents and serves as the audio autoencoder of Qwen's music generation model.
+- [εar-VAE2](https://eps-acoustic-revolution-lab.github.io/EAR_VAE2/) (arXiv Technical Report): A frequency-aware complex-spectrogram VAE for high-fidelity music reconstruction that compresses 48 kHz stereo music into 25 Hz latents and serves as the audio autoencoder of Qwen's music generation model.
 - [CineDub](https://cinedub2026.github.io/) (ACM MM 2026): The first scalable end-to-end cinematic dubbing model that operates on holistic video without preprocessing pipelines, jointly modeling speech, sound effects, and music across multi-speaker, off-screen, and combined generation scenarios.
 - [ControlAudio](https://control-audio.github.io/Control-Audio/) (ACL 2026 Oral): A controllable multi-event audio foundation model that produces millisecond-level temporally aligned audio from natural language descriptions.
 - [SaFa](https://swapforward.github.io/) (ICCV 2025): Seamless long-form audio and panorama generation via latent swap joint diffusion, up to 20x faster than training-based methods.
