@@ -6,8 +6,6 @@ main:
     arxiv: https://arxiv.org/abs/2601.02731
     page: https://swapforward.github.io/Omni2Sound/
     code: https://github.com/omni2sound/Omni2Sound
-    others: <a href="https://huggingface.co/Dalision/Omni2Sound" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Model</a>
-    github_stars: omni2sound/Omni2Sound
     image: ./assets/teaser/omni2sound.png
     notes: Highlight (top 15%)
 
@@ -18,7 +16,6 @@ main:
     arxiv: https://arxiv.org/abs/2608.15734
     page: https://cinedub2026.github.io/
     code: https://github.com/dalision/cinedub_infer
-    others: <a href="https://huggingface.co/Dalision/cinedub" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Weights</a> <a href="https://huggingface.co/datasets/Dalision/cinedub_benchmark" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Benchmark</a> <a href="https://github.com/dalision/cinedub_eval" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Eval</a>
     image: ./assets/teaser/cinedub.png
 
   - title: "ControlAudio: Tackling Text-Guided, Timing-Indicated and Intelligible Audio Generation via Progressive Diffusion Modeling"
