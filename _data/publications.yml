@@ -9,6 +9,15 @@ main:
     image: ./assets/teaser/omni2sound.png
     notes: Highlight (top 15%)
 
+  - title: "Fourier is Frontier: Frequency-Aware Autoencoding for High-Fidelity Music Reconstruction"
+    authors: Kangdi Wang, <strong>Yusheng Dai</strong>, Jin Xu
+    conference_short: arXiv
+    conference: arXiv Technical Report <strong>(εar-VAE2)</strong>, 2026.
+    arxiv: https://arxiv.org/abs/2608.19843
+    page: https://eps-acoustic-revolution-lab.github.io/EAR_VAE2/
+    code: https://github.com/Eps-Acoustic-Revolution-Lab/EAR_VAE2
+    image: ./assets/teaser/ear_vae2.png
+
   - title: "CineDub: Scaling End-to-End Video Dubbing to Multi-Speaker Dialogues with Coherent Sound Effects"
     authors: <strong>Yusheng Dai</strong>*, Kangdi Wang*, Baolong Gao, Yuxuan Jiang, Weiqiang Wang, Qiuhong Ke, Jianfei Cai (* equal contribution)
     conference_short: ACM MM
