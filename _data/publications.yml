@@ -3,24 +3,29 @@ main:
     authors: <strong>Yusheng Dai</strong>, Zehua Chen, Yuxuan Jiang, Baolong Gao, Qiuhong Ke, Jianfei Cai, Jun Zhu
     conference_short: CVPR
     conference: IEEE / CVF Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2026.
-    arxiv: https://swapforward.github.io/Omni2Sound/
+    arxiv: https://arxiv.org/abs/2601.02731
     page: https://swapforward.github.io/Omni2Sound/
+    code: https://github.com/omni2sound/Omni2Sound
+    others: <a href="https://huggingface.co/Dalision/Omni2Sound" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Model</a>
+    github_stars: omni2sound/Omni2Sound
     image: ./assets/teaser/omni2sound.png
     notes: Highlight (top 15%)
 
-  - title: "HolisticAudio: Scaling End-to-End Video Dubbing to Multi-Speaker Dialogues with Coherent Sound Effects"
-    authors: <strong>Yusheng Dai</strong>, et.al.
-    conference_short: Under Review
-    conference: Under Review, 2026.
-    arxiv: https://cinedub2026.github.io/
+  - title: "CineDub: Scaling End-to-End Video Dubbing to Multi-Speaker Dialogues with Coherent Sound Effects"
+    authors: <strong>Yusheng Dai</strong>*, Kangdi Wang*, Baolong Gao, Yuxuan Jiang, Weiqiang Wang, Qiuhong Ke, Jianfei Cai (* equal contribution)
+    conference_short: ACM MM
+    conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2026.
+    arxiv: https://arxiv.org/abs/2608.15734
     page: https://cinedub2026.github.io/
+    code: https://github.com/dalision/cinedub_infer
+    others: <a href="https://huggingface.co/Dalision/cinedub" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Weights</a> <a href="https://huggingface.co/datasets/Dalision/cinedub_benchmark" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Benchmark</a> <a href="https://github.com/dalision/cinedub_eval" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Eval</a>
     image: ./assets/teaser/cinedub.png
 
   - title: "ControlAudio: Tackling Text-Guided, Timing-Indicated and Intelligible Audio Generation via Progressive Diffusion Modeling"
     authors: Yuxuan Jiang, Zehua Chen, Zeqian Ju, <strong>Yusheng Dai</strong>, Weibei Dou, Jun Zhu
     conference_short: ACL
     conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
-    arxiv: https://arxiv.org/pdf/2510.08878v1
+    arxiv: https://arxiv.org/abs/2510.08878
     page: https://control-audio.github.io/Control-Audio/
     image: ./assets/teaser/controlaudio.png
     notes: Oral (top 15%)
@@ -30,7 +35,7 @@ main:
     conference_short: ICCV
     conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
     arxiv: https://arxiv.org/abs/2502.05130
-    project page: https://swapforward.github.io
+    page: https://swapforward.github.io
     image: ./assets/teaser/Long.png
     
 
@@ -39,7 +44,7 @@ main:
     conference_short: CVPR
     conference: IEEE / CVF Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2024.
     arxiv: https://arxiv.org/abs/2403.04245
-    project page: https://github.com/dalision/ModalBiasAVSR
+    code: https://github.com/dalision/ModalBiasAVSR
     image: ./assets/teaser/CVPR2024.png
 
   # - title: "AudioAtlas: A Comprehensive and Balanced Benchmark Towards Movie-Oriented Text-to-Audio Generation"

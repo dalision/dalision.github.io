@@ -8,9 +8,9 @@ email: yusheng.dai@monash.edu
   
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Yusheng Dai
-description: Yusheng Dai is a first year student in Monash University.
-canonical: https://dalision.github.io/dalision/
+keywords: Yusheng Dai, audio generation, video-to-audio, video dubbing, Omni2Sound, CineDub, Monash University
+description: Yusheng Dai is a PhD candidate at Monash University working on audio-visual foundation world models, including Omni2Sound (CVPR 2026) and CineDub (ACM MM 2026).
+canonical: https://dalision.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
